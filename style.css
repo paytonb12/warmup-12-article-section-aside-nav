@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(204, 247, 140);
+}
+
+.site-header{
+    background-color: rgb(238, 131, 194);
+}
+
+.header-site-nav{
+    background-color: darkturquoise;
+}
+
+.main{
+    background-color: rgb(233, 129, 95);
+    padding: 40px
+}
+
+.article{
+    background-color: rgb(253, 255, 142);
+}
+
+.article-section {
+    background-color: rgb(255, 230, 0);
+}
+
+.about-the-author {
+    background-color: rgb(117, 39, 72);
+}
+
+.related-foods {
+    background-color: dodgerblue;
+}
+
+.site-footer{
+    background-color: blueviolet;
+}
+
+.footer-site.nav {
+    background-color: darkslategrey;
+}
